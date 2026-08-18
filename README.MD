@@ -4,7 +4,7 @@
 
 Download this repository by clicking the green code button and then "Download Zip"
 
-To try this one, point your Claude Cowork folder to the "review agent" folder from your resources.
+To try this one, point your Claude Cowork folder to the "snare_summit" folder.
 
 The review agent contains a skill, and demo data from Xero. 
 
