@@ -32,6 +32,7 @@ You can also refer to the [References](references) folder to see how the rules f
 
 ### Resource Links From Today's Session 
 
-Youtube Playlist: https://www.youtube.com/playlist?list=PLIAULsHxrlZdZhJgmwQf7Y8Zbj0N5A9db
-Linkedin Video List: https://www.linkedin.com/in/beaugaudron/recent-activity/videos/
+- Youtube Playlist: https://www.youtube.com/playlist?list=PLIAULsHxrlZdZhJgmwQf7Y8Zbj0N5A9db
+
+ - Linkedin Video List: https://www.linkedin.com/in/beaugaudron/recent-activity/videos/
 
