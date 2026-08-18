@@ -1,4 +1,8 @@
-# Accounting Review Skill #
+* This is for educational purposes only*
+
+# Accounting Review Skill 
+
+Download this repository by clicking the green code button and then "Download"
 
 To try this one, point your Claude Cowork folder to the "review agent" folder from your resources.
 
@@ -25,4 +29,9 @@ The skill currently only uses these reports
 If there are any you would like to add, you can now use this skill as a starting template
 
 You can also refer to the [References](references) folder to see how the rules for each report are currently set. 
+
+### Resource Links From Today's Session 
+
+Youtube Playlist: https://www.youtube.com/playlist?list=PLIAULsHxrlZdZhJgmwQf7Y8Zbj0N5A9db
+Linkedin Video List: https://www.linkedin.com/in/beaugaudron/recent-activity/videos/
 
