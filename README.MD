@@ -1,8 +1,8 @@
-* This is for educational purposes only*
+* This is for educational purposes only
 
 # Accounting Review Skill 
 
-Download this repository by clicking the green code button and then "Download"
+Download this repository by clicking the green code button and then "Download Zip"
 
 To try this one, point your Claude Cowork folder to the "review agent" folder from your resources.
 
